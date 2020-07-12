@@ -1,0 +1,4 @@
+C:\Users\cooli\Desktop\VS\CalculatorApp\CalculatorBL\bin\Debug\CalculatorBL.dll
+C:\Users\cooli\Desktop\VS\CalculatorApp\CalculatorBL\bin\Debug\CalculatorBL.pdb
+C:\Users\cooli\Desktop\VS\CalculatorApp\CalculatorBL\obj\Debug\CalculatorBL.dll
+C:\Users\cooli\Desktop\VS\CalculatorApp\CalculatorBL\obj\Debug\CalculatorBL.pdb
